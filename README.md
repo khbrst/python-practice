@@ -1,6 +1,6 @@
-[TOC]
+# Django Practice
 
-# Django project
+Practice Django
 
 - Tutorial: [django project intro][1]
 - OS: Ubuntu 16.04 LTS
