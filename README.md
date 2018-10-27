@@ -23,6 +23,8 @@ Practice Python.
   - [ ] [PostgreSQL](https://www.postgresql.org/)
 - [ ] Backend framework
   - [ ] [Django](https://www.djangoproject.com/)
+    - [ ] [Django Web Framework (Python) - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+    - [ ] [Getting started | Django documentation](https://docs.djangoproject.com/en/stable/intro)
   - [ ] [Flask](http://flask.pocoo.org/)
 - [ ] NoSQL
   - [ ] [MongoDB](https://www.mongodb.com/)
