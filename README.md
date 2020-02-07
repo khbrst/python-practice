@@ -14,7 +14,7 @@ virtualenv venv --python=python3
 Then, install libraries to setup environment.
 
 ```bash
-pip install -r django/tutorial/requirements.txt
+pip install -r requirements.txt
 ```
 
 If you want to store installed packages in requirements format, execute
